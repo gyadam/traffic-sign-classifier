@@ -6,14 +6,6 @@
 
 ---
 
-# **Traffic Sign Classifier** 
-
-## Writeup
-
----
-
-**Udacity Self-Driving Car Nanodegree Project 3: Traffic Sign Classifier**
-
 The goal of this project was to build a neural network to recognize and classify images of traffic signs.
 The project consisted of the following steps:
 * Load the data set (see below for links to the project data set)
@@ -35,10 +27,6 @@ The project consisted of the following steps:
 [image7]: ./examples/4_stop.png "Traffic Sign 4"
 [image8]: ./examples/5_speed_limit.png "Traffic Sign 5"
 [image9]: ./examples/softmax_probabilities.png "Softmax probabilites"
-
-
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Writeup, Ipython notebook and HTML output
@@ -94,11 +82,11 @@ My final model consisted of the following layers:
 | Fully connected		| Input: 2000, output: 43						|
  
 
-#### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
+#### 3. Training the neural network
 
 To train the model, I used the Adam optimizer recommended for this project with a learning rate of 0.001, a batch size of 128, and trained the neural network for 30 epochs. I didn't experiment much with the hyperparameters, because this takes a lot of GPU time and I was able to acheive the required validation accuracy by modifying the model architecture. Surely the training parameters could be improved to get a higher accuracy, hopefully I'll have the time to come back to this project after the end of the course... :)
 
-#### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.
+#### 4. Results & discussion
 
 My final model results were:
 
@@ -118,7 +106,7 @@ I ended up with the current model architecture after the following steps:
 * With this approach, I reached 0.961 validation accuracy
 
 
-### Test a Model on New Images
+### Testing the model on new images
 
 #### 1. Testing the model on five German traffic signs found on the web
 
