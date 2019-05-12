@@ -18,9 +18,9 @@ The project consisted of the following steps:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization_train.jpg "Training data"
-[image2]: ./examples/visualization_valid.jpg "Validation dataa"
-[image3]: ./examples/visualization_test.jpg "Test data"
+[image1]: ./examples/visualization_train.png "Training data"
+[image2]: ./examples/visualization_valid.png "Validation dataa"
+[image3]: ./examples/visualization_test.png "Test data"
 [image4]: ./examples/1_slippery.png "Traffic Sign 1"
 [image5]: ./examples/2_stop_snowy.png "Traffic Sign 2"
 [image6]: ./examples/3_priority_road.png "Traffic Sign 3"
