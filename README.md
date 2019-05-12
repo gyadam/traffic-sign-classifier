@@ -110,7 +110,7 @@ I ended up with the current model architecture after the following steps:
 
 #### 1. Testing the model on five German traffic signs found on the web
 
-Here are the five German traffic signs that I found on the web:
+these are the five German traffic signs that I found on the web:
 
 ![alt text][image4] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
