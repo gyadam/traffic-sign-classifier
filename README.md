@@ -49,8 +49,13 @@ I used python methods to calculate the following summary statistics of the traff
 
 Visualization of the dataset consists of three histograms showing the distribution of images between the different classes:
 
+Training data:
 ![alt text][image1]
+
+Validation data:
 ![alt text][image2]
+
+Test data:
 ![alt text][image3]
 
 ### Design and Test a Model Architecture
