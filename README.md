@@ -21,11 +21,11 @@ The project consisted of the following steps:
 [image1]: ./examples/visualization_train.png "Training data"
 [image2]: ./examples/visualization_valid.png "Validation dataa"
 [image3]: ./examples/visualization_test.png "Test data"
-[image4]: ./examples/1_slippery.png "Traffic Sign 1"
-[image5]: ./examples/2_stop_snowy.png "Traffic Sign 2"
-[image6]: ./examples/3_priority_road.png "Traffic Sign 3"
-[image7]: ./examples/4_stop.png "Traffic Sign 4"
-[image8]: ./examples/5_speed_limit.png "Traffic Sign 5"
+[image4]: ./examples/1_slippery.PNG "Traffic Sign 1"
+[image5]: ./examples/2_stop_snowy.PNG "Traffic Sign 2"
+[image6]: ./examples/3_priority_road.PNG "Traffic Sign 3"
+[image7]: ./examples/4_stop.PNG "Traffic Sign 4"
+[image8]: ./examples/5_speed_limit.PNG "Traffic Sign 5"
 [image9]: ./examples/softmax_probabilities.png "Softmax probabilites"
 
 ---
